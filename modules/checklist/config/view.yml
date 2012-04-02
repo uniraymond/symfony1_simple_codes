@@ -1,0 +1,8 @@
+#createSuccess:
+  #stylesheets:  [rb_layout_man, module_dashboard_cre]
+
+#editSuccess:
+  #stylesheets:  [rb_layout_man, module_milestone_cre]
+
+all:
+  stylesheets:  [rb_layout_man, module_checklist]
